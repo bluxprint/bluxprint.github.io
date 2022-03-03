@@ -1,0 +1,9 @@
+{
+    "name": "bluxprint-website",
+    "version": "0.0.00",
+    "private": true,
+    "author": [
+      {"name": "bluxprint", "username": "bluxprint"},
+      {"name": "Nicholas Benedict", "username": "nicb112"}
+    ]
+  }
