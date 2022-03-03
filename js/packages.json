@@ -1,0 +1,6 @@
+{
+    "name": "js",
+    "main": "index.js",
+    "version": "0.1.00",
+    "private": true
+  }
